@@ -1,3 +1,15 @@
+/*
+Jon S. Patton
+(cc) Creative Commons, 6/17/17
+
+A console-based Java program that reads an Access file and also prints to text
+with sensible output. Done as an extra excercise for my intro to comp sci class.
+
+Please see the readme for notes about shortcomings and compiling/running
+instructions.
+
+*/
+
 import java.sql.*;
 import java.util.*;
 import java.io.*;
